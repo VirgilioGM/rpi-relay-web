@@ -1,0 +1,39 @@
+{
+  "short_name": "RPi",
+  "name": "Raspberry Pi web control",
+  "icons": [
+    {
+      "src": "/static/icon192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/static/icon128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "/static/icon96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "/static/icon48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "/static/icon16.png",
+      "type": "image/png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "/static/icon.png",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "index.html",
+  "background_color": "#2196F3",
+  "display": "standalone",
+  "orientation": "portrait"
+}
